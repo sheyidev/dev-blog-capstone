@@ -1,2 +1,2 @@
 # dev-blog-capstone
-capstone project
+capstone project on Blog for Developers..
