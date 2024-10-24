@@ -30,7 +30,6 @@ if os.getcwd() == '/app':
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'immense-beyond-64349-af231d6f2139.herokuapp.com']
 
-#ALLOWED_HOSTS = os.getenv('DJANGO_ALLOWED_HOSTS', 'localhost', '127.0.0.1').split(',')
 
 
 # Application definition
